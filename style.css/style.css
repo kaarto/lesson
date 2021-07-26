@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.green{
+    color: green;
+}
+li{
+    list-style: none;
+    margin: 10px 30px;
+
+}
+header{
+    padding-top: 30px;
+}
+.bor{
+    border: solid 3px green;
+    font-size: 30px;
+    padding: 10px;
+    margin: 20px 30px;
+}
+img{
+    width: 400px;
+    margin-left: 45px;
+}
+.poto{
+    width: 425px;
+}
+p{
+    padding: 30px 20px;
+}
+.info{
+    text-align: center;
+    font-size: 20px;
+    border-top: solid 1px green;
+    
+}
